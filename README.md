@@ -1,6 +1,6 @@
 # Biomarker-analysis-for-Parkinson-s-disease
 
-Copyright 2024 University of British Columbia (UBC). - Mohamad Hosein Faramarzi
+© Copyright 2024 University of British Columbia (UBC). - Mohamad Hosein Faramarzi
 Mckeown Lab - Neurology department - UBC
 
 
