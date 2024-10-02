@@ -1,7 +1,8 @@
 # Biomarker-analysis-for-Parkinson-s-disease
 
 © Copyright 2024 University of British Columbia (UBC). - Mohamad Hosein Faramarzi
-Mckeown Lab - Neurology department - UBC
+
+@Mckeown Lab - Neurology department - UBC
 
 
 This is a part of the big project to explore many of biomarkers in people living with Parkinson's that we can extract from EEG and behavioral measures
